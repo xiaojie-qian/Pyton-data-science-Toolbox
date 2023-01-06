@@ -1,6 +1,7 @@
 # Pyton-data-science-Toolbox
 ## Description 
-### Toolbox case: Extract tweet data to build a dictionary
+### Twitter 
+- Stream data from the Twitter API
 - Write Functions for analyzing Twitter data
 - Generalized functions: 
   - Count occurrences for any column
