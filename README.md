@@ -1,6 +1,7 @@
-# Pyton-data-science-Toolbox
+# Small-projects with Python 
+- A collection of small projects using Python
 ## Description 
-### Twitter 
+### Twitter API
 - Stream data from the Twitter API
 - Write Functions for analyzing Twitter data
 - Generalized functions: 
